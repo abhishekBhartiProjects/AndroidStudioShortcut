@@ -40,3 +40,15 @@ These will help you navigate around your app and help you find whatever you need
 
 - **⌘ + /** → highlight a block of code, then use this shortcut to comment all of it out.
 - **⌘ + shift + A** → Find an action. If you know the name of an action in Android Studio, use this shortcut, type the action in, hit enter, bam.
+
+## Debugging
+- **shift + ⌘ + F8** → look at all the breakpoints you have mapped
+
+**Extra tip:** After using this command, use ⌘ + A, and then press delete to delete all of your breakpoints. I do this all the time.
+
+- **F8** → step over — go to the next line of code
+- **F7** → step into — literally step into the method / class highlighted
+- **shift + F8** → step out — literally step out back to where you were before
+- **⌥ + ⌘ + R** → resume program
+
+
