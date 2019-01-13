@@ -1,5 +1,6 @@
 # AndroidStudioShortcut
 These are some of the most used shortcuts of Android Studio. Most of these shortcuts are default shortcuts in Android Studio.
+[Reference](https://medium.com/@taylorcase19/my-most-used-android-studio-shortcuts-e3f588e21075)
 
 ## Easiest
 - **⌘ + ,** → open preferences
@@ -26,3 +27,16 @@ These will help you navigate around your app and help you find whatever you need
 - **shift + ⌘ + F** → search for specific syntax with this. Maybe you’re looking for a spot where you typed .inflate, but you can’t quite remember where you used it. **shift + ⌘ + F** will find it for you. If I’m not jumping to a specific class, I always use this to find what I’m looking for.
 
 **Extra tip:** use the ↓ to scroll to the exact one you want, then hit enter to jump there.
+
+- **⌥ + F12** → open or close terminal inside of Android Studio. One of my favorites
+- **shift + F6** → rename a variable / method / class name. Click in the middle of what you want to rename, then use this shortcut. When you’re done renaming, you’ll need to hit enter two times
+- **shift + ⌘ + ]** → move to the tab to the right
+- **shift + ⌘ + [** → move to the tab to the left
+
+- **⌥ + ⌥** → press ⌥, then press ⌥ a second time and hold it down. Then, hit the down arrow key a few times ↓ while still holding ⌥. Let go of both at the same time. Now type on multiple lines! Hit esc to get out of this mode
+- **⌥ + ⌘ + B** → have your cursor on the method being called, and then use this command. This is particularly useful if you’re utilizing interfaces. You can either go to the interface declaration, or the implementation. Most of the time we’ll want to jump to the implementation to see the actual code.
+
+**Extra tip:** you can also hold down ⌘ and then click on the method to jump to the implementation of it. It will jump you to the interface declaration, however, if you have one, which is why I use ⌥ + ⌘ + B
+
+- **⌘ + /** → highlight a block of code, then use this shortcut to comment all of it out.
+- **⌘ + shift + A** → Find an action. If you know the name of an action in Android Studio, use this shortcut, type the action in, hit enter, bam.
