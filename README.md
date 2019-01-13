@@ -16,3 +16,13 @@ These are some of the most used shortcuts of Android Studio. Most of these short
 **Extra tip:** You can also just use ⌘ + X, especially if you’re wanting to move a line since that cuts the line, and ⌘ + V will paste a line
 - **⌘ + ⌥ + L** → automatically formats the highlighted code (or the entire file, if you have nothing highlighted)
 - **⌥ + ↑** → hold down ⌥ and keep pressing ↑ to highlight in an increasing scope. You can use ↓ to unhighlight
+
+## More Difficult
+These will help you navigate around your app and help you find whatever you need in your project.
+- **shift + ⌘ + O** → type a file name and hit enter to jump there.
+
+**Extra tip:** if you’re wanting to jump to **HomeActivity.kt**, just type **HA.kt** and hit enter
+
+- **shift + ⌘ + F** → search for specific syntax with this. Maybe you’re looking for a spot where you typed .inflate, but you can’t quite remember where you used it. **shift + ⌘ + F** will find it for you. If I’m not jumping to a specific class, I always use this to find what I’m looking for.
+
+**Extra tip:** use the ↓ to scroll to the exact one you want, then hit enter to jump there.
